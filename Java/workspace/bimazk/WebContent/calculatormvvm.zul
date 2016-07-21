@@ -1,0 +1,9 @@
+<?page title="new page title" contentType="text/html;charset=UTF-8"?>
+<zk>
+<window title="MVVM Calculator" border="normal" apply="org.zkoss.bind.BindComposer"
+	viewModel="@id('vm') @init('bimazk.CalculatorMVVM')">
+<intbox value="@bind(vm.bil1)" /> + <intbox value="@bind(vm.bil2)" /> = <intbox value="@bind(vm.hasil)" />
+<separator/>
+<button onClick="@command('hitung')" label="Hitung" />
+</window>
+</zk>

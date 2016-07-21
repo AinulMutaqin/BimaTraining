@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;com.bimapalma.purchase.Supplier.alamat&apos; in &apos;com.bimapalma.purchase.Supplier&apos;&#x0D;&#x0A;- Original project: &apos;PurchaseOrder&apos;&#x0D;&#x0A;- Original element: &apos;com.bimapalma.purchase.Supplier.alamat&apos;&#x0D;&#x0A;- Getter method name: &apos;getAlamat&apos;&#x0D;&#x0A;- Setter method name: &apos;setAlamat&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;alamat&apos;" flags="589830" getter="getAlamat" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;com.bimapalma.purchase{Supplier.java[Supplier^alamat" insertion="6" setter="setAlamat" stamp="1378291170715" version="1.0" visibility="1"/>
+</session>

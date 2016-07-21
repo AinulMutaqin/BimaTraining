@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Tue Sep 24 16:38:50 ICT 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0141-4f55-e09d-000000d80f90 
+on database directory C:\Users\Ainul\MyDB  with class loader sun.misc.Launcher$AppClassLoader@35ce36 
+Loaded from file:/C:/Java/workspace/elink2.5/src/derby.jar
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_45-b06
+user.dir=C:\Java\workspace\elink2.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

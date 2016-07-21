@@ -1,0 +1,21 @@
+<?page title="Auto Generated index.zul"?>
+<window id="topbox" title="Hello Bima Palma Folks" border="normal" width="500px" height="200px"
+sizable="true" closable="true">
+
+<menubar>
+	<menu label="File">
+		<menupopup>
+			<menuitem label="New" />
+			<menuseparator />
+			<menuitem label="Open" />
+		</menupopup>
+	</menu>
+	<menuitem label="About" />
+</menubar>
+
+<label id="judul" value="You are using: ${desktop.webApp.version}"/>
+<separator/>
+<button label="Click" onClick="judul.value=&quot;Ganti Teks&quot;" />
+<separator/>
+<button label="Ubah" onClick="topbox.width=&quot;200px&quot;" />
+</window>

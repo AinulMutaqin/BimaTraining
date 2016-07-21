@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;MainEntry.java&apos; to &apos;Day2/src/com.bimapalma.exe&apos;&#x0D;&#x0A;- Original project: &apos;Day2&apos;&#x0D;&#x0A;- Destination element: &apos;Day2/src/com.bimapalma.exe&apos;&#x0D;&#x0A;- Original element: &apos;com.bimapalma.day2.MainEntry.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;com.bimapalma.exe" element1="/src&lt;com.bimapalma.day2{MainEntry.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1377677505659" units="1" version="1.0"/>
+</session>

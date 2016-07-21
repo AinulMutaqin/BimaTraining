@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.bimapalma.day7.MyException&apos; to &apos;NumberNotValidException&apos;&#x0D;&#x0A;- Original project: &apos;Day7&apos;&#x0D;&#x0A;- Original element: &apos;com.bimapalma.day7.MyException&apos;&#x0D;&#x0A;- Renamed element: &apos;com.bimapalma.day7.NumberNotValidException&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MyException&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.bimapalma.day7{MyException.java[MyException" matchStrategy="1" name="NumberNotValidException" qualified="false" references="true" similarDeclarations="false" stamp="1378367501174" textual="false" version="1.0"/>
+</session>

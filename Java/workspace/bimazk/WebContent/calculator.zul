@@ -1,0 +1,11 @@
+<?page title="new page title" contentType="text/html;charset=UTF-8"?>
+<zk>
+<window title="Calculator" border="normal" apply="bimazk.CalculatorMVC">
+<intbox id="bil1" /> + <intbox id="bil2" /> = <intbox id="hasil" />
+<separator/>
+<button id="buttonTambah" label="Tambah" />
+<button label="buttonKurang" onClick="Kurang" />
+<button label="butttonKali" onClick="Kali" />
+<button label="buttonBagi" onClick="Bagi" />
+</window>
+</zk>

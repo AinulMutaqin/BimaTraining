@@ -1,0 +1,7 @@
+<?page title="Auto Generated index.zul"?>
+<?variable-resolver class="org.zkoss.zkplus.spring.DelegatingVariableResolver"?>
+<window title="Hello World!!" border="normal" width="200px">
+
+<label value="${companyBean.message }"/>
+
+</window>

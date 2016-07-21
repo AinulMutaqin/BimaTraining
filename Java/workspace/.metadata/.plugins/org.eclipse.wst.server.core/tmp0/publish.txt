@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Oct 14 10:52:09 ICT 2013
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Java\\workspace\\springzk\\WebContent\\WEB-INF\\lib\\zk.jar=WEB-INF/lib/zk.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Java\\workspace\\springzk\\WebContent\\WEB-INF\\lib\\org.eclipse.persistence.jpars_2.5.0.v20130507-3faac2b.jar=WEB-INF/lib/org.eclipse.persistence.jpars_2.5.0.v20130507-3faac2b.jar

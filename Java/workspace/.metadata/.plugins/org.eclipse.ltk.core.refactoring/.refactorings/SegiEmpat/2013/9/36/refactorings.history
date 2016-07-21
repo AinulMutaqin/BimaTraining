@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.bimapalma.model.SegiEmpat&apos; to &apos;SegiEmpatView&apos;&#x0D;&#x0A;- Original project: &apos;SegiEmpat&apos;&#x0D;&#x0A;- Original element: &apos;com.bimapalma.model.SegiEmpat&apos;&#x0D;&#x0A;- Renamed element: &apos;com.bimapalma.model.SegiEmpatView&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SegiEmpat&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.bimapalma.model{SegiEmpat.java[SegiEmpat" matchStrategy="1" name="SegiEmpatView" qualified="false" references="true" similarDeclarations="false" stamp="1378377427064" textual="false" version="1.0"/>
+</session>

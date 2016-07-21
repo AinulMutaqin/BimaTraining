@@ -1,0 +1,14 @@
+127.0.0.1 - - [25/Sep/2013:15:55:37 +0700] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [25/Sep/2013:15:55:37 +0700] "GET /springzk/ HTTP/1.1" 404 969
+127.0.0.1 - - [25/Sep/2013:15:58:00 +0700] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [25/Sep/2013:15:58:01 +0700] "GET /springzk/ HTTP/1.1" 200 762
+127.0.0.1 - - [25/Sep/2013:15:58:01 +0700] "GET /springzk/zkau/web/d4d9451b/js/zk.wpd;jsessionid=671970DADEB672815BFC5CD2CF7440DF HTTP/1.1" 200 104501
+127.0.0.1 - - [25/Sep/2013:15:58:01 +0700] "GET /springzk/zkau/web/d4d9451b/js/zul.lang.wpd;jsessionid=671970DADEB672815BFC5CD2CF7440DF HTTP/1.1" 200 1377
+127.0.0.1 - - [25/Sep/2013:15:58:02 +0700] "GET /springzk/zkau/web/d4d9451b/zul/css/zk.wcs;jsessionid=671970DADEB672815BFC5CD2CF7440DF HTTP/1.1" 200 21039
+127.0.0.1 - - [25/Sep/2013:15:58:02 +0700] "GET /springzk/zkau/web/_zv2012050214/js/zul.wnd.wpd;jsessionid=671970DADEB672815BFC5CD2CF7440DF HTTP/1.1" 200 10800
+127.0.0.1 - - [25/Sep/2013:16:00:34 +0700] "GET /springzk/ HTTP/1.1" 200 704
+127.0.0.1 - - [25/Sep/2013:16:00:34 +0700] "GET /springzk/zkau/web/d4d9451b/js/zul.lang.wpd HTTP/1.1" 200 1377
+127.0.0.1 - - [25/Sep/2013:16:00:55 +0700] "GET /springzk/zkau;jsessionid=671970DADEB672815BFC5CD2CF7440DF?dtid=z_bj30&cmd_0=rmDesktop&opt_0=i HTTP/1.1" 200 17
+127.0.0.1 - - [25/Sep/2013:16:50:01 +0700] "GET /springzk/zkau?dtid=z_cj30&cmd_0=rmDesktop&opt_0=i HTTP/1.1" 200 9
+127.0.0.1 - - [25/Sep/2013:17:11:29 +0700] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [25/Sep/2013:17:11:30 +0700] "GET /springzk/ HTTP/1.1" 404 969

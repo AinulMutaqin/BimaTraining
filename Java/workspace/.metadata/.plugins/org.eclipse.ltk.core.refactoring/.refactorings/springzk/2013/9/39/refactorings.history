@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;com.por.model.PODao.em&apos; in &apos;com.por.model.PODao&apos;&#x0D;&#x0A;- Original project: &apos;springzk&apos;&#x0D;&#x0A;- Original element: &apos;com.por.model.PODao.em&apos;&#x0D;&#x0A;- Getter method name: &apos;getEm&apos;&#x0D;&#x0A;- Setter method name: &apos;setEm&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;em&apos;" flags="589830" getter="getEm" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;com.por.model{PODao.java[PODao^em" insertion="0" setter="setEm" stamp="1380106376931" version="1.0" visibility="1"/>
+</session>
